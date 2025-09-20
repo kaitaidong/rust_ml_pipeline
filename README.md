@@ -11,9 +11,13 @@ check if Rust has been installed, run
 `$ rustc --version`
 
 Create a new Rust project
-`
-$ mkdir ~/projects
-$ cd ~/projects
-$ mkdir hello_world
-$ cd hello_world
-`
+
+`$ mkdir ~/projects`
+
+`$ cd ~/projects`
+
+`$ mkdir hello_world`
+
+`$ cd hello_world`
+
+
